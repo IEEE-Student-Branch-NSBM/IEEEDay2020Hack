@@ -1,13 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="6941bf6f-cfef-46a3-8b20-31ec91045756" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/bootstrap/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/fonts/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/font-awesome.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/_ieee-day-background-webex-&amp;-zoom.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/_ieee-day-background-webex-&amp;-zoom.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/intro-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/intro-bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/bs-init.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/bs-init.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/grayscale.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/grayscale.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ieee.html" beforeDir="false" afterPath="$PROJECT_DIR$/ieee.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -40,11 +56,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602183301023</updated>
-      <workItem from="1602183302720" duration="2517000" />
+      <workItem from="1602183302720" duration="3808000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
