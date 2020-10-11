@@ -26,9 +26,6 @@
     offset: 54
   });
 
-
-
-
   // Collapse Navbar
   var navbarCollapse = function() {
     if ($("#mainNav").offset().top > 100) {
@@ -43,8 +40,3 @@
   $(window).scroll(navbarCollapse);
 
 })(jQuery); // End of use strict
-
-function consoler(){
-  //T0ghIFNvbWVvbmUgZm91bmQgIGEgaGFsZiBvZiBhIGtleSEgezQwZWEtODRjZC1kYTUwNzkzMjVlZDV9Cg==
-  console.log('ZnVuY3Rpb24gY29uc29sZXIoKXsKICAgIGNvbnNvbGUubG9nKCdLRVlfODZjMDFlYjYtMzg1YS00ZDVkLWE4NTctNTY4NWI0NWQyMWI5Jyk7Cn0=');
-}
